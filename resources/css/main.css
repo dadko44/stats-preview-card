@@ -7,7 +7,7 @@ p{
     min-width: 375px;
     min-height: 275px;
     display: block;
-    background: center no-repeat url('../resources/images/image-header-mobile.jpg') ;
+    background: center no-repeat url('../../resources/images/image-header-mobile.jpg') ;
     background-size: contain;
     filter: opacity(45%);
 }
